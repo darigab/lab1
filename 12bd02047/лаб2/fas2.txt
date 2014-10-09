@@ -1,0 +1,9 @@
+<html>
+<table width=1300 align=left border=0 bgcolor="blue">
+	<tr>
+	  <td align=left margin-top:200px bgcolor="white">
+	  <font color="black"><b><i>Copyright 2013</i></b></font>
+	  </td>
+	</tr>
+</table>
+</html>
